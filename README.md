@@ -32,12 +32,12 @@
 
 ## Overview
 
-|                      Laptop View                       |                      Mobile View                       |
-| :----------------------------------------------------: | :----------------------------------------------------: |
-|                  Laptop View (Page-1)                  |                  Mobile View (Page-1)                  |
-| <img src="assets/Screenshot-Laptop1.jpeg" width="50%"> | <img src="assets/Screenshot-Mobile1.jpeg" width="50%"> |
-|                  Laptop View (Page-2)                  |                  Mobile View (Page-2)                  |
-| <img src="assets/Screenshot-Laptop2.jpeg" width="50%"> | <img src="assets/Screenshot-Mobile2.jpeg" width="50%"> |
+|                Laptop View                 |                Mobile View                 |
+| :----------------------------------------: | :----------------------------------------: |
+|            Laptop View (Page-1)            |            Mobile View (Page-1)            |
+| <img src="assets/Screenshot-Laptop1.jpeg"> | <img src="assets/Screenshot-Mobile1.jpeg"> |
+|            Laptop View (Page-2)            |            Mobile View (Page-2)            |
+| <img src="assets/Screenshot-Laptop2.jpeg"> | <img src="assets/Screenshot-Mobile2.jpeg"> |
 
 Challenge was to create a **_Random Quote Generator_** following the design given on the website.
 
