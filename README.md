@@ -67,4 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 -   GitHub: [@lostgirljourney](https://github.com/lostgirljourney)
--   Twitter: [@melophilecoder](https://twitter.com/melophilecoder)
+-   Twitter: [@isshefalguni](https://twitter.com/isshefalguni)
